@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.duckdb
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+.venv/
+venv/
+*.egg-info/
