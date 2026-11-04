@@ -1,5 +1,7 @@
 # Data Quality Checker
 
+[![CI](https://github.com/Krupa03/data-quality-checker/actions/workflows/ci.yml/badge.svg)](https://github.com/Krupa03/data-quality-checker/actions/workflows/ci.yml)
+
 A CLI tool that validates a **data warehouse** built on a **Kimball dimensional
 model** (star schema), running automated null, duplicate, referential
 integrity, freshness, and schema drift checks — with infrastructure
